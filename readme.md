@@ -16,11 +16,11 @@
 - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library
 - [lodash](https://github.com/lodash/lodash) A modern JavaScript utility library delivering modularity, performance & extras
 - [js-cookie](https://github.com/js-cookie/js-cookie) A simple, lightweight JavaScript API for handling cookies
+- [uuid](https://github.com/kelektiv/node-uuid) Generate RFC-compliant UUIDs in JavaScript
+- [validator.js](https://github.com/chriso/validator.js) String validation
 
 ### Polyfills
 - [core-js](https://github.com/zloirock/core-js) JavaScript polyfills
 - [object-fit-images](https://github.com/bfred-it/object-fit-images) Polyfill object-fit/object-position)
 - [js-polyfill](https://github.com/inexorabletash/polyfill) JavaScript Polyfills, Shims and More
 - [svgxuse](https://github.com/Keyamoon/svgxuse) Fetches external SVGs referenced in use elements
-- [uuid](https://github.com/kelektiv/node-uuid) Generate RFC-compliant UUIDs in JavaScript
-- [validator.js](https://github.com/chriso/validator.js) String validation
