@@ -22,3 +22,5 @@
 - [object-fit-images](https://github.com/bfred-it/object-fit-images) Polyfill object-fit/object-position)
 - [js-polyfill](https://github.com/inexorabletash/polyfill) JavaScript Polyfills, Shims and More
 - [svgxuse](https://github.com/Keyamoon/svgxuse) Fetches external SVGs referenced in use elements
+- [uuid](https://github.com/kelektiv/node-uuid) Generate RFC-compliant UUIDs in JavaScript
+- [validator](https://github.com/chriso/validator.js) String validation
