@@ -18,7 +18,7 @@
 - [js-cookie](https://github.com/js-cookie/js-cookie) A simple, lightweight JavaScript API for handling cookies
 
 ### Polyfills
-- core-js
-- object-fit-images
-- js-polyfills
-- svgxuse
+- [core-js](https://github.com/zloirock/core-js) JavaScript polyfills
+- [object-fit-images](https://github.com/bfred-it/object-fit-images) Polyfill object-fit/object-position)
+- [js-polyfill](https://github.com/inexorabletash/polyfill) JavaScript Polyfills, Shims and More
+- [svgxuse](https://github.com/Keyamoon/svgxuse) Fetches external SVGs referenced in use elements
