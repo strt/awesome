@@ -11,6 +11,9 @@
 - [Anime.js](https://github.com/juliangarnier/anime) Lightweight JavaScript animation library
 - [Flickity](https://github.com/metafizzy/flickity) Touch, responsive, flickable carousels
 - [Axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
+- [List.js](https://github.com/javve/list.js) Search, sort, filters and flexibility to tables, lists and various HTML elements
+- [in-view.js](https://github.com/camwiegert/in-view) Get notified when a DOM element enters or exits the viewport
+- [flatpickr](https://github.com/chmln/flatpickr) Lightweight and powerful datetimepicker with no dependencies
 
 ### Utilities
 - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library
