@@ -14,6 +14,7 @@
 - [List.js](https://github.com/javve/list.js) Search, sort, filters and flexibility to tables, lists and various HTML elements
 - [in-view.js](https://github.com/camwiegert/in-view) Get notified when a DOM element enters or exits the viewport
 - [flatpickr](https://github.com/chmln/flatpickr) Lightweight and powerful datetimepicker with no dependencies
+- [micromodal](https://github.com/ghosh/micromodal) Tiny javascript library for creating accessible modal dialogs
 
 ### Utilities
 - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library
