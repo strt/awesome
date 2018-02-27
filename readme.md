@@ -28,3 +28,7 @@
 - [object-fit-images](https://github.com/bfred-it/object-fit-images) Polyfill object-fit/object-position)
 - [js-polyfill](https://github.com/inexorabletash/polyfill) JavaScript Polyfills, Shims and More
 - [svgxuse](https://github.com/Keyamoon/svgxuse) Fetches external SVGs referenced in use elements
+
+### React
+- [downshift](https://github.com/paypal/downshift) Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) A higher order component for loading components with promises.
